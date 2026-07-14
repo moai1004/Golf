@@ -1,0 +1,12 @@
+#pragma once
+enum SceneType {
+	TITLE,
+	COURSE_SELECT,
+	GAME,
+	CLEAR,
+	HOWTO,
+	NAME_INPUT,
+	MULTI_MENU,
+	MULTI_LOBBY,
+	RULE_SELECT
+};
